@@ -4,6 +4,10 @@
 # Как сгенерировать и добавить свои ключи в ssh :
 - локально запустите команду `ssh-keygen -t rsa`. Ключ по умолчанию будет в `$HOME/.ssh/id_rsa.pub`. содержимое скопировать и добавить в `all.yml`.
 - `cat $HOME/.ssh/id_rsa.pub`
+- Добавить ключ в ssh-agent командой `ssh-add`
+- проверить доступность к серверу `ssh student@vmip`
+
+# Как сгенерировать и добавить свои ключи в ssh WINDOWS:
 - На windows слейдуйте по [ инструкции ](https://www.ssh.com/academy/ssh/putty/windows/puttygen#creating-a-new-key-pair-for-authentication)
 
 Далее открываете pull-request в этот репозиторий на изменение файла all.yml, включив туда свой публичный ключ и имя пользователя в формате YAML. в файле есть уже пример.
