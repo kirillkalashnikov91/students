@@ -1,0 +1,47 @@
+
+students_ssh_keys:
+  - name: "samat.toibazarov"
+    key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDDNZPgE6CUjNjqRWzvJruggAMm+/6XKP2TTZqad5d1D samlabs821"
+  - name: "daulet"
+    key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3fPUJsUL6gNIUuVpoNukcpSqfePimmdba0psvSNvVZVTR4CBB1tO70BtL9m9WBQ2hQtzbgr6UyN3EZq4ZCSRpRtOnL7rVqMr0ETb5G3GaRCB0rPj+D+Iwj4aXm3rJEib9TPC2ao0veF7u8ZqqGsiJHKznclW4o4Uyi6Sq0N2CX4wk95rwiVVOr6j1P+K5Uuz7vawGekBbpB5Apj/fRWtBc3vFgV7iMWL2UJva2GMlniCAI1do7+SI57tc5pzajj1YqHh7a08Aj1liWaDXPX1cHtnq5BORgZttmi+DxcfieG+badnBYzKn9zK9jx65rhvPudn2jbdTzlihXLgNR5P/ root@srvalm"
+  - name: "boldachyov_marat"
+    key: "#SSH PUBLIC KEY"
+
+Cписок студентов:
+    "boldachyov_marat",
+    "adil_kumashev",
+    "kalashnikov_kirill",
+    "zulbukharov_abylaikhan",
+    "abulkhairov_serik",
+    "aniya_boltabay",
+    "bekezhan_nurlan",
+    "batyrkhan_asanali",
+    "danil_tormin",
+    "sharipov_madiyar",
+    "mukasheva_assel",
+    "amangeldy_zhanguttin",
+    "sanzhar_kanafin",
+    "daniyar_kuatbekov",
+    "kirill_paliy",
+    "alikhan_shorin",
+    "zharmukhanbetov_ashat",
+    "niyara_muradova",
+    "bimzhanov_tamerlan",
+    "alimukhamed_tlekbai",
+    "shivczov_egor",
+    "nurseitova_aidana",
+    "vafin_alexandr",
+    "yutsevichus_yulus",
+    "nurkhan_arken",
+    "bisenova_aidana",
+    "kolesnikov_aleksei",
+    "shukurillo_baikhanov",
+    "zhumashov_temirlan",
+    "kakharova_akmaral",
+    "bakdaulet_atantayev",
+    "takha_ramazan",
+    "esinaliev_arsen",
+    "tengizbaev_quddys",
+    "alexandr_ramazanov",
+    "valikhan_utemissov",
+    "lector_nurlan",
